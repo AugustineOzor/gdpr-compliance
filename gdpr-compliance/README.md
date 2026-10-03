@@ -1,8 +1,8 @@
 <div align="center">
 
-![EuroShop GmbH GDPR Banner](banner.png)
-
 # EuroShop GmbH — GDPR Compliance Program
+
+<img width="3200" height="840" alt="banner" src="https://github.com/user-attachments/assets/db1316e2-3b4f-4a19-a74d-1c33bec9cb30" />
 
 ![Progress](https://img.shields.io/badge/Progress-In%20Progress-dbab09) ![GDPR](https://img.shields.io/badge/-GDPR-informational) ![ISO 27001](https://img.shields.io/badge/-ISO%2027001-informational)
 
